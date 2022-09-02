@@ -1,0 +1,70 @@
+.center-align{text-align: center;}
+.brown{background-color:cadetblue;}
+.brown{color: aliceblue;}
+#center{text-align: center;}
+.space-evenly{justify-content: space-evenly;}
+#coloumn{flex-direction: row;}
+#middle{text-align: center;}
+.brown{text-align: center;
+justify-content: space-evenly
+;}
+.brown{justify-content: space-between;}
+.brown>a{width: 100%;}
+nav{
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
+img{
+    height: 150px;
+    width: 200px; 
+}
+.center-align::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+#coloumn{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+#center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+nav{
+    height: 50px;
+    
+}
+#center{
+    font-style: inherit;
+}
+#recipe{
+    text-align: center;
+}
+.facebook{
+    text-align: center;
+    
+}
+#centre{
+    font-size: large;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+#center{
+    font-family: 'Poppins', sans-serif;
+}
+nav{
+    font-size: medium;
+}
+body{
+    background-color: black;
+
+}
+.a{
+    text-decoration: none;
+}
